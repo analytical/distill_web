@@ -13,4 +13,6 @@ navbar:
       href: slides/slide01.html
     - text: "Modulos"
       href: modulos/modulo01.html
+    - text: "CV"
+      href: CV/CV_cgomez/CV_cgomez.pdf
 output: distill::distill_article
