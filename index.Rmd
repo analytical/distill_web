@@ -16,3 +16,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# Guía ISO GUM
+
+```{r}
+hist(rnorm(1000))
+```
+
