@@ -1,10 +1,10 @@
 ---
-name: Marie
-surname: Curie
+name: Carlos
+surname: Gómez
 position: "Professor"
 address: "School of Physics & Chemistry, École Normale Supérieure"
 phone: +1 22 3333 4444
-profilepic: mariecurie.jpg
+profilepic: foto.jpg
 www: mariecurie.com
 email: "Marie.Curie@ens.fr"
 twitter: mariecurie
